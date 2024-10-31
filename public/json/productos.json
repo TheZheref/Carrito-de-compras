@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "figura_A", "Precio": "10.000","imagen":"imagen_muestra.jpg"},
+    { "id": 2, "nombre": "figura_B", "Precio": "10.000","imagen":"imagen_muestra.jpg"},
+    { "id": 3, "nombre": "figura_C", "Precio": "10.000","imagen":"imagen_muestra.jpg"},
+    { "id": 4, "nombre": "figura_D", "Precio": "10.000","imagen":"imagen_muestra.jpg"},
+    { "id": 5, "nombre": "figura_E", "Precio": "10.000","imagen":"imagen_muestra.jpg"}
+
+]
